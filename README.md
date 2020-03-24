@@ -1,3 +1,11 @@
+
+1- email validation pattern always returns false.
+2- when i tried to navigate to otp page after submit and wrapped the submit button with <Link> it didnt store input data to the database.
+3- personalPhoto is added in the database as a url of the selected image.
+****************************************************************************************************************************************
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
